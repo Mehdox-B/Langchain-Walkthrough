@@ -6,3 +6,5 @@ python-dotenv
 openai
 langchain
 anthropic
+pandas
+huggingface_hub

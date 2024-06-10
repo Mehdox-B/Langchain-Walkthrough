@@ -8,3 +8,5 @@ langchain
 anthropic
 pandas
 huggingface_hub
+docarray==0.37.0
+faiss-cpu
